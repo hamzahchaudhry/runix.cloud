@@ -4,7 +4,7 @@
 # Runix Cloud server Setups
 
 ## Overview
-Runix.cloud is a personal homelab server running in my UBC dorm in collaboration with ![Hamzah Chaudhary](https://github.com/hamzahchaudhry), designed for hosting web services, virtual machines, and various experiments. This repository contains the configuration files and automation scripts used to manage and deploy my homelab setup efficiently.
+Runix.cloud is a personal homelab server running in my UBC dorm in collaboration with ![Hamzah Chaudhary](https://github.com/hamzahchaudhry), designed for hosting web services, virtual machines, personal cloud backups, and various experiments. This repository contains the configuration files and automation scripts used to manage and deploy my homelab setup efficiently.
 
 ## Server Specifications (Matsya for now)
 - **Model:** Lenovo System x3250 M6
@@ -24,7 +24,7 @@ Runix.cloud is a personal homelab server running in my UBC dorm in collaboration
 - **Self-Hosting Services** - Running various self-hosted applications.
 
 ## Network & Accessibility
-The server is currently **not publicly accessible** for security reasons. Instead, I use **Tailscale VPN** to securely connect to it from anywhere. Friends and family can request access to specific services through Tailscale.
+The server is currently **not publicly accessible** for security reasons. Instead, I use **Tailscale VPN** to securely connect to it from anywhere. Friends and family can request access to specific services by contacting me and will get certain access when publicly available.
 
 ### **Future Plans for Public Access**
 Eventually, the server will be accessible via **runix.cloud** or **matsya.runix.cloud**. For now, only one main server is accessible, but in the future, specific services will be reachable through subdomains.
@@ -52,7 +52,7 @@ systemctl restart networking nginx pveproxy
 (Note: Ensure sensitive files like `/etc/shadow` and private keys are excluded.)
 
 ## Contact & Contributions
-If you're interested in learning more or collaborating on homelab setups, feel free to reach out!
+If you're interested in collaborating on this homelab setup or add more, feel free to reach out!
 
 ---
 🚀 *Matsya is an evolving project—stay tuned for more updates!*
