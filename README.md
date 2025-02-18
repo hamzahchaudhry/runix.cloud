@@ -1,7 +1,7 @@
-![Runix Cloud](![Runix-Cloud](https://github.com/user-attachments/assets/f8b0bb9e-64af-4501-bfd8-77bf6109c81f))
+![Runix-Cloud](https://github.com/user-attachments/assets/f8b0bb9e-64af-4501-bfd8-77bf6109c81f)
 
 
-# Runix cloud server Setups
+# Runix Cloud server Setups
 
 ## Overview
 Runix.cloud is my personal homelab server running in my UBC dorm, designed for hosting web services, virtual machines, and various experiments. This repository contains the configuration files and automation scripts used to manage and deploy my homelab setup efficiently.
