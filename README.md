@@ -4,7 +4,7 @@
 # Runix Cloud server Setups
 
 ## Overview
-Runix.cloud is my personal homelab server running in my UBC dorm, designed for hosting web services, virtual machines, and various experiments. This repository contains the configuration files and automation scripts used to manage and deploy my homelab setup efficiently.
+Runix.cloud is a personal homelab server running in my UBC dorm in collaboration with ![Hamzah Chaudhary](https://github.com/hamzahchaudhry), designed for hosting web services, virtual machines, and various experiments. This repository contains the configuration files and automation scripts used to manage and deploy my homelab setup efficiently.
 
 ## Server Specifications (Matsya for now)
 - **Model:** Lenovo System x3250 M6
