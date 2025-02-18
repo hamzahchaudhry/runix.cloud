@@ -1,0 +1,7 @@
+*.key
+*.crt
+*/shadow
+*/passwd
+*/gshadow
+*/ssl/
+*/ssh/
