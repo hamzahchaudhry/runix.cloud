@@ -56,5 +56,6 @@ If you're interested in collaborating on this homelab setup or add more, feel fr
 
 ---
 🚀 *Matsya is an evolving project—stay tuned for more updates!*
+![IMG_3813-fotor-2025021831821](https://github.com/user-attachments/assets/12df5ef3-86a3-441d-b7ba-d39c8bb5cd08)
 
 
