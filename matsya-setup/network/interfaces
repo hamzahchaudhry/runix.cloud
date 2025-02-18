@@ -1,0 +1,21 @@
+auto lo
+iface lo inet loopback
+
+iface enx6e0b84f01cc7 inet manual
+
+auto vmbr0
+iface vmbr0 inet dhcp
+	bridge-ports eno2 eno1
+	bridge-stp off
+	bridge-fd 0
+
+iface eno1 inet manual
+
+iface eno2 inet manual
+
+iface enp1s0f0 inet manual
+
+iface enp1s0f1 inet manual
+
+
+source /etc/network/interfaces.d/*
